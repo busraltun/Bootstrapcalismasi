@@ -1,0 +1,17 @@
+body {
+    background-color: #E9ECEF ;
+}
+a {
+    color: white;
+}
+.jumbotron {
+    text-align: center;
+}
+h1 {
+    color: brown;
+}
+h4 {
+    color: rgb(134, 134, 0);
+    display: flex;
+    justify-content: flex-start;
+}
